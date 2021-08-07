@@ -1,0 +1,9 @@
+tgcrypto
+pyrogram
+
+dnspython
+pymongo
+
+requests
+aiohttp==3.7.4.post0
+attrify==3.0
